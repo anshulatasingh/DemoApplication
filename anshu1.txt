@@ -1,1 +1,1 @@
-testing newone merged.
+testing fromgit merged.
